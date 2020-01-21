@@ -2,9 +2,6 @@
 
 Hello World!
 
-# username: maestro
-# pass: admin
-
 # Here you can see some info about structure of app:
 
  DB - Folder for database files for your migrations (MySQL)
@@ -16,3 +13,7 @@ Hello World!
  lib - folder for library, where we save all cross file info
 
 # You need to open lib/main.php and enter your options, such as DB account setting, site URL and etc.
+
+(From my database)
+username: maestro 
+pass: admin
