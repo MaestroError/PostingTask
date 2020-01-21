@@ -2,6 +2,9 @@
 
 Hello World!
 
+# username: maestro
+# pass: admin
+
 # Here you can see some info about structure of app:
 
  DB - Folder for database files for your migrations (MySQL)
